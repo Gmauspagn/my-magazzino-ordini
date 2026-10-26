@@ -6,6 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class MagazzinoApplication {
 
+    // Applicazione per gestire il magazzino
     public static void main(String[] args) {
         SpringApplication.run(MagazzinoApplication.class, args);
     }
